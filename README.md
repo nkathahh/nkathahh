@@ -3,13 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nelly Nkatha 👋
 
-A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
+I'm a Computer Science student and aspiring software engineer passionate about building impactful and secure applications. I enjoy solving real-world problems through technology and I'm particularly interested in web development, mobile development, and cybersecurity. I'm constantly exploring new tools and technologies to improve my skills and create better software.
 
-- 🔭 **Current Focus:** What are you actively working on or building right now? (e.g., a specific project, thesis, or application)
-- 🌱 **Learning & Exploration:** What concepts, frameworks, or languages are you currently diving into?
-- ⚡ **Core Interests:** What domains excite you most? (e.g., Data Science, Embedded Systems, Mobile Apps, Cybersecurity, Cloud Infrastructure)
+- 🔭 **Current Focus:** Building software projects, strengthening full-stack development skills, and exploring secure application design.
+- 🌱 **Learning & Exploration:** Java, Python, MySQL, Android development, cloud computing, Git, and cybersecurity concepts.
+- ⚡ **Core Interests:** Mobile Apps, Web Development, Cybersecurity, Cloud Infrastructure, and Software Engineering.
 
 ---
 
@@ -42,8 +42,9 @@ A brief, 2-3 sentence introduction about who you are, what you are passionate ab
 
 ## Connect With Me
 
-- 💼 **Professional Network:** [Link to your LinkedIn, Portfolio, or CV]
-- 📧 **Direct Contact:** [Your email address or professional contact point]
+* 💼 **LinkedIn:** [Nelly Muriuki](https://www.linkedin.com/in/nelly-muriuki-564703190/)
+* 🌐 **Portfolio:** https://nkathahh.github.io/
+* 📧 **Email:** [nellmuriuki@gmail.com](mailto:nellmuriuki@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
